@@ -7,7 +7,7 @@
 
 ## Skills/Technical Tools: 
 
-Node.js, Express.js, MongoDB, React.js, TailwindCSS, OpenAI, API, Git, and Github
+Node.js, Express.js, MongoDB, React.js, TailwindCSS, OpenAI, API, CI/CD, Git, and Github
 
 ## Demo Site
 
