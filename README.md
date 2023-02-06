@@ -8,7 +8,9 @@
 
 > Skills/Technical Tools: Node.js, Express.js, MongoDB, React.js, TailwindCSS, OpenAI, API, Git, and Github
 
-* Demo Link: [@Click Me](https://aesthetic-zabaione-c0672e.netlify.app/)
+## Demo Site
+
+* Link: [Click Me](https://aesthetic-zabaione-c0672e.netlify.app/)
 
 ## Usage
 
