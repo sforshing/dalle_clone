@@ -2,9 +2,11 @@
 <p>
 </p>
 
-> A full stack MERN AI image generating app that uses a version of GPT-3 modified to generate images. \n
-> You can share and download the AI generated image with the download function from the Home page.\n
-> Skills/Technical Tools: Node.js, Express.js, MongoDB, React.js, TailwindCSS, OpenAI, API, Git, and Github
+> A full stack MERN AI image generating app that uses a version of GPT-3 modified to generate images. 
+
+You can share and download the AI generated image with the download function from the Home page.
+
+Skills/Technical Tools: Node.js, Express.js, MongoDB, React.js, TailwindCSS, OpenAI, API, Git, and Github
 
 ## Usage
 
