@@ -29,4 +29,9 @@ npm run dev
 
 Give a ⭐️ if this project helped you!
 
+## Credit
+
+JavaScript Mastery
+Tutorial: https://www.youtube.com/watch?v=EyIvuigqDoA&t=5198s
+
 ***
