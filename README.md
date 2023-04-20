@@ -13,11 +13,7 @@ Node.js, Express.js, MongoDB, React.js, TailwindCSS, OpenAI, API, CI/CD, Git, an
 
 * Link: [Click Me](https://aesthetic-zabaione-c0672e.netlify.app/)
 
-## Usage
 
-```sh
-npm run dev
-```
 
 ## Author
 
@@ -27,12 +23,5 @@ npm run dev
 * LinkedIn: [@hs-brian-chan](https://linkedin.com/in/hs-brian-chan)
 
 ## Show your support
-
 Give a ⭐️ if this project helped you!
-
-## Credit
-
-JavaScript Mastery
-Tutorial: https://www.youtube.com/watch?v=EyIvuigqDoA&t=5198s
-
 ***
