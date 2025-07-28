@@ -9,12 +9,6 @@
 
 Node.js, Express.js, MongoDB, React.js, TailwindCSS, OpenAI, API, CI/CD, Git, and Github
 
-## Demo Site
-
-* Link: [Click Me](https://aesthetic-zabaione-c0672e.netlify.app/)
-
-
-
 ## Author
 
 👤 **Brian Chan**
